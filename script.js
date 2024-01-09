@@ -1,4 +1,4 @@
-const API_KEY = "S4XXLCPPG48HXA722PZHXWBZ6";
+const API_KEY = "";
 let city = "";
 let currentCity = "";
 let weather = {};
